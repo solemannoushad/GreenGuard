@@ -33,3 +33,5 @@ yarn-error.*
 
 # typescript
 *.tsbuildinfo
+
+vgg16_plantdoc.h5
